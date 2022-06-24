@@ -1,0 +1,213 @@
+2022-06-23 23:23:30,737 ERROR [Log] bilgisayar_arat() FAILED with cause : null 
+2022-06-23 23:23:30,755 ERROR [Log] ikinci_sayfaya_git_kontrol_et() FAILED with cause : null 
+2022-06-23 23:23:30,762 ERROR [Log] rastgele_urun_sec_sepete_ekle() FAILED with cause : null 
+2022-06-23 23:23:30,775 ERROR [Log] secilen_urun_fiyat_ile_sepettekini_karsilastir() FAILED with cause : null 
+2022-06-23 23:23:30,783 ERROR [Log] secilen_urun_miktar_arttir() FAILED with cause : null 
+2022-06-23 23:23:30,790 ERROR [Log] urun_sepetten_silinerek_sepeti_bos_oldugunu_kontrol_edilir() FAILED with cause : null 
+2022-06-23 23:28:35,671 ERROR [Log] bilgisayar_arat() FAILED with cause : null 
+2022-06-23 23:28:35,689 ERROR [Log] ikinci_sayfaya_git_kontrol_et() FAILED with cause : null 
+2022-06-23 23:28:35,695 ERROR [Log] rastgele_urun_sec_sepete_ekle() FAILED with cause : null 
+2022-06-23 23:28:35,703 ERROR [Log] secilen_urun_fiyat_ile_sepettekini_karsilastir() FAILED with cause : null 
+2022-06-23 23:28:35,707 ERROR [Log] secilen_urun_miktar_arttir() FAILED with cause : null 
+2022-06-23 23:28:35,712 ERROR [Log] urun_sepetten_silinerek_sepeti_bos_oldugunu_kontrol_edilir() FAILED with cause : null 
+2022-06-23 23:31:29,937 ERROR [Log] bilgisayar_arat() FAILED with cause : null 
+2022-06-23 23:31:29,956 ERROR [Log] ikinci_sayfaya_git_kontrol_et() FAILED with cause : null 
+2022-06-23 23:31:29,963 ERROR [Log] rastgele_urun_sec_sepete_ekle() FAILED with cause : null 
+2022-06-23 23:31:29,971 ERROR [Log] secilen_urun_fiyat_ile_sepettekini_karsilastir() FAILED with cause : null 
+2022-06-23 23:31:29,979 ERROR [Log] secilen_urun_miktar_arttir() FAILED with cause : null 
+2022-06-23 23:31:29,987 ERROR [Log] urun_sepetten_silinerek_sepeti_bos_oldugunu_kontrol_edilir() FAILED with cause : null 
+2022-06-23 23:34:35,793 ERROR [Log] bilgisayar_arat() FAILED with cause : null 
+2022-06-23 23:34:35,809 ERROR [Log] ikinci_sayfaya_git_kontrol_et() FAILED with cause : null 
+2022-06-23 23:34:35,817 ERROR [Log] rastgele_urun_sec_sepete_ekle() FAILED with cause : null 
+2022-06-23 23:34:35,828 ERROR [Log] secilen_urun_fiyat_ile_sepettekini_karsilastir() FAILED with cause : null 
+2022-06-23 23:34:35,835 ERROR [Log] secilen_urun_miktar_arttir() FAILED with cause : null 
+2022-06-23 23:34:35,839 ERROR [Log] urun_sepetten_silinerek_sepeti_bos_oldugunu_kontrol_edilir() FAILED with cause : null 
+2022-06-23 23:39:23,198 ERROR [Log] bilgisayar_arat() FAILED with cause : null 
+2022-06-23 23:39:23,218 ERROR [Log] ikinci_sayfaya_git_kontrol_et() FAILED with cause : null 
+2022-06-23 23:39:23,227 ERROR [Log] rastgele_urun_sec_sepete_ekle() FAILED with cause : null 
+2022-06-23 23:39:23,235 ERROR [Log] secilen_urun_fiyat_ile_sepettekini_karsilastir() FAILED with cause : null 
+2022-06-23 23:39:23,243 ERROR [Log] secilen_urun_miktar_arttir() FAILED with cause : null 
+2022-06-23 23:39:23,249 ERROR [Log] urun_sepetten_silinerek_sepeti_bos_oldugunu_kontrol_edilir() FAILED with cause : null 
+2022-06-23 23:40:13,084 INFO  [Log] bilgisayar_arat() PASSED 
+2022-06-23 23:40:17,457 INFO  [Log] ikinci_sayfaya_git_kontrol_et() PASSED 
+2022-06-23 23:40:20,458 ERROR [Log] rastgele_urun_sec_sepete_ekle() FAILED with cause : sepete eklemedi expected [true] but found [false] 
+2022-06-23 23:40:22,130 INFO  [Log] secilen_urun_fiyat_ile_sepettekini_karsilastir() PASSED 
+2022-06-23 23:40:22,961 INFO  [Log] secilen_urun_miktar_arttir() PASSED 
+2022-06-23 23:40:24,102 INFO  [Log] urun_sepetten_silinerek_sepeti_bos_oldugunu_kontrol_edilir() PASSED 
+2022-06-23 23:44:23,652 INFO  [Log] bilgisayar_arat() PASSED 
+2022-06-23 23:44:27,114 INFO  [Log] ikinci_sayfaya_git_kontrol_et() PASSED 
+2022-06-23 23:44:28,748 ERROR [Log] rastgele_urun_sec_sepete_ekle() FAILED with cause : stale element reference: element is not attached to the page document
+  (Session info: chrome=102.0.5005.115)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#stale_element_reference
+Build info: version: '4.1.3', revision: '7b1ebf28ef'
+System info: host: 'LAPTOP-RTHRL78S', ip: '192.168.1.36', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ea00865b498ac939993f6652d47816de, clickElement {id=7ebe4692-2745-4461-9cac-02860980a113}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 102.0.5005.115, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\90535\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50477}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50477/devtoo..., se:cdpVersion: 102.0.5005.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (ea00865b498ac939993f6652d47816de)] -> xpath: //div[@class='pmyvb0-0 jCCkZh']//li]
+Session ID: ea00865b498ac939993f6652d47816de 
+2022-06-23 23:44:43,810 ERROR [Log] secilen_urun_fiyat_ile_sepettekini_karsilastir() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Sepete Git']"}
+  (Session info: chrome=102.0.5005.115)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.1.3', revision: '7b1ebf28ef'
+System info: host: 'LAPTOP-RTHRL78S', ip: '192.168.1.36', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ea00865b498ac939993f6652d47816de, findElement {using=xpath, value=//a[normalize-space()='Sepete Git']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 102.0.5005.115, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\90535\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50477}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50477/devtoo..., se:cdpVersion: 102.0.5005.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ea00865b498ac939993f6652d47816de 
+2022-06-23 23:44:58,831 ERROR [Log] secilen_urun_miktar_arttir() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"((//select[@class='amount'])[1]//option)[2]"}
+  (Session info: chrome=102.0.5005.115)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.1.3', revision: '7b1ebf28ef'
+System info: host: 'LAPTOP-RTHRL78S', ip: '192.168.1.36', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ea00865b498ac939993f6652d47816de, findElement {using=xpath, value=((//select[@class='amount'])[1]//option)[2]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 102.0.5005.115, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\90535\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50477}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50477/devtoo..., se:cdpVersion: 102.0.5005.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ea00865b498ac939993f6652d47816de 
+2022-06-23 23:44:58,840 INFO  [Log] urun_sepetten_silinerek_sepeti_bos_oldugunu_kontrol_edilir() PASSED 
+2022-06-23 23:54:37,626 INFO  [Log] bilgisayar_arat() PASSED 
+2022-06-23 23:54:41,131 INFO  [Log] ikinci_sayfaya_git_kontrol_et() PASSED 
+2022-06-23 23:54:45,341 ERROR [Log] rastgele_urun_sec_sepete_ekle() FAILED with cause : sepete eklemedi expected [true] but found [false] 
+2022-06-23 23:54:47,318 INFO  [Log] secilen_urun_fiyat_ile_sepettekini_karsilastir() PASSED 
+2022-06-23 23:54:48,068 INFO  [Log] secilen_urun_miktar_arttir() PASSED 
+2022-06-23 23:54:49,265 INFO  [Log] urun_sepetten_silinerek_sepeti_bos_oldugunu_kontrol_edilir() PASSED 
+2022-06-24 15:40:08,342 INFO  [Log] bilgisayar_arat() PASSED 
+2022-06-24 15:40:12,369 INFO  [Log] ikinci_sayfaya_git_kontrol_et() PASSED 
+2022-06-24 15:40:16,468 ERROR [Log] rastgele_urun_sec_sepete_ekle() FAILED with cause : sepete eklemedi expected [true] but found [false] 
+2022-06-24 15:40:25,677 INFO  [Log] secilen_urun_fiyat_ile_sepettekini_karsilastir() PASSED 
+2022-06-24 15:40:26,559 INFO  [Log] secilen_urun_miktar_arttir() PASSED 
+2022-06-24 15:40:27,781 INFO  [Log] urun_sepetten_silinerek_sepeti_bos_oldugunu_kontrol_edilir() PASSED 
+2022-06-24 15:44:38,991 INFO  [Log] bilgisayar_arat() PASSED 
+2022-06-24 15:44:43,674 INFO  [Log] ikinci_sayfaya_git_kontrol_et() PASSED 
+2022-06-24 15:44:47,130 INFO  [Log] rastgele_urun_sec_sepete_ekle() PASSED 
+2022-06-24 15:44:48,538 INFO  [Log] secilen_urun_fiyat_ile_sepettekini_karsilastir() PASSED 
+2022-06-24 15:44:49,298 INFO  [Log] secilen_urun_miktar_arttir() PASSED 
+2022-06-24 15:44:50,457 INFO  [Log] urun_sepetten_silinerek_sepeti_bos_oldugunu_kontrol_edilir() PASSED 
+2022-06-24 15:49:45,975 INFO  [Log] bilgisayar_arat() PASSED 
+2022-06-24 15:49:50,558 INFO  [Log] ikinci_sayfaya_git_kontrol_et() PASSED 
+2022-06-24 15:49:58,307 INFO  [Log] rastgele_urun_sec_sepete_ekle() PASSED 
+2022-06-24 15:50:01,015 INFO  [Log] secilen_urun_fiyat_ile_sepettekini_karsilastir() PASSED 
+2022-06-24 15:50:01,936 INFO  [Log] secilen_urun_miktar_arttir() PASSED 
+2022-06-24 15:50:03,170 INFO  [Log] urun_sepetten_silinerek_sepeti_bos_oldugunu_kontrol_edilir() PASSED 
+2022-06-24 15:51:26,202 INFO  [Log] bilgisayar_arat() PASSED 
+2022-06-24 15:51:29,685 INFO  [Log] ikinci_sayfaya_git_kontrol_et() PASSED 
+2022-06-24 15:51:31,522 ERROR [Log] rastgele_urun_sec_sepete_ekle() FAILED with cause : stale element reference: element is not attached to the page document
+  (Session info: chrome=102.0.5005.115)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#stale_element_reference
+Build info: version: '4.1.3', revision: '7b1ebf28ef'
+System info: host: 'LAPTOP-RTHRL78S', ip: '192.168.1.36', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [07e944804f6f8d510b816491ea2e1c02, clickElement {id=a4c39c6c-8155-41bb-9464-58c46b4fedbf}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 102.0.5005.115, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\90535\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:56928}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:56928/devtoo..., se:cdpVersion: 102.0.5005.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (07e944804f6f8d510b816491ea2e1c02)] -> xpath: //div[@class='pmyvb0-0 jCCkZh']//li]
+Session ID: 07e944804f6f8d510b816491ea2e1c02 
+2022-06-24 15:51:46,591 ERROR [Log] secilen_urun_fiyat_ile_sepettekini_karsilastir() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Sepete Git']"}
+  (Session info: chrome=102.0.5005.115)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.1.3', revision: '7b1ebf28ef'
+System info: host: 'LAPTOP-RTHRL78S', ip: '192.168.1.36', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [07e944804f6f8d510b816491ea2e1c02, findElement {using=xpath, value=//a[normalize-space()='Sepete Git']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 102.0.5005.115, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\90535\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:56928}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:56928/devtoo..., se:cdpVersion: 102.0.5005.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 07e944804f6f8d510b816491ea2e1c02 
+2022-06-24 15:51:51,723 ERROR [Log] secilen_urun_miktar_arttir() FAILED with cause : Unable to find element with locator By.xpath: ((//select[@class='amount'])[1]//option)[2]
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.1.3', revision: '7b1ebf28ef'
+System info: host: 'LAPTOP-RTHRL78S', ip: '192.168.1.36', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: driver.version: RemoteWebDriver 
+2022-06-24 15:51:51,776 ERROR [Log] urun_sepetten_silinerek_sepeti_bos_oldugunu_kontrol_edilir() FAILED with cause : no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=102.0.5005.115)
+Build info: version: '4.1.3', revision: '7b1ebf28ef'
+System info: host: 'LAPTOP-RTHRL78S', ip: '192.168.1.36', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [07e944804f6f8d510b816491ea2e1c02, findElement {using=xpath, value=//i[@class='gg-icon gg-icon-bin-medium']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 102.0.5005.115, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\90535\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:56928}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:56928/devtoo..., se:cdpVersion: 102.0.5005.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 07e944804f6f8d510b816491ea2e1c02 
+2022-06-24 15:52:23,553 INFO  [Log] bilgisayar_arat() PASSED 
+2022-06-24 15:52:27,236 INFO  [Log] ikinci_sayfaya_git_kontrol_et() PASSED 
+2022-06-24 15:52:29,047 ERROR [Log] rastgele_urun_sec_sepete_ekle() FAILED with cause : stale element reference: element is not attached to the page document
+  (Session info: chrome=102.0.5005.115)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#stale_element_reference
+Build info: version: '4.1.3', revision: '7b1ebf28ef'
+System info: host: 'LAPTOP-RTHRL78S', ip: '192.168.1.36', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [01cda6f2e15ff661853f9b6b6e4d11cb, clickElement {id=9b401474-69e8-4d50-a1c9-67ac5af155fc}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 102.0.5005.115, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\90535\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:57014}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:57014/devtoo..., se:cdpVersion: 102.0.5005.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (01cda6f2e15ff661853f9b6b6e4d11cb)] -> xpath: //div[@class='pmyvb0-0 jCCkZh']//li]
+Session ID: 01cda6f2e15ff661853f9b6b6e4d11cb 
+2022-06-24 15:52:42,666 ERROR [Log] secilen_urun_fiyat_ile_sepettekini_karsilastir() FAILED with cause : Unable to find element with locator By.xpath: //a[normalize-space()='Sepete Git']
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.1.3', revision: '7b1ebf28ef'
+System info: host: 'LAPTOP-RTHRL78S', ip: '192.168.1.36', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: driver.version: RemoteWebDriver 
+2022-06-24 15:52:42,696 ERROR [Log] secilen_urun_miktar_arttir() FAILED with cause : no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=102.0.5005.115)
+Build info: version: '4.1.3', revision: '7b1ebf28ef'
+System info: host: 'LAPTOP-RTHRL78S', ip: '192.168.1.36', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [01cda6f2e15ff661853f9b6b6e4d11cb, findElement {using=xpath, value=((//select[@class='amount'])[1]//option)[2]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 102.0.5005.115, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\90535\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:57014}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:57014/devtoo..., se:cdpVersion: 102.0.5005.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 01cda6f2e15ff661853f9b6b6e4d11cb 
+2022-06-24 15:52:42,732 ERROR [Log] urun_sepetten_silinerek_sepeti_bos_oldugunu_kontrol_edilir() FAILED with cause : no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=102.0.5005.115)
+Build info: version: '4.1.3', revision: '7b1ebf28ef'
+System info: host: 'LAPTOP-RTHRL78S', ip: '192.168.1.36', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [01cda6f2e15ff661853f9b6b6e4d11cb, findElement {using=xpath, value=//i[@class='gg-icon gg-icon-bin-medium']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 102.0.5005.115, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\90535\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:57014}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:57014/devtoo..., se:cdpVersion: 102.0.5005.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 01cda6f2e15ff661853f9b6b6e4d11cb 
+2022-06-24 15:53:26,534 INFO  [Log] bilgisayar_arat() PASSED 
+2022-06-24 15:53:32,137 INFO  [Log] ikinci_sayfaya_git_kontrol_et() PASSED 
+2022-06-24 15:53:38,762 INFO  [Log] rastgele_urun_sec_sepete_ekle() PASSED 
+2022-06-24 15:53:42,953 INFO  [Log] secilen_urun_fiyat_ile_sepettekini_karsilastir() PASSED 
+2022-06-24 15:53:43,733 INFO  [Log] secilen_urun_miktar_arttir() PASSED 
+2022-06-24 15:53:44,971 INFO  [Log] urun_sepetten_silinerek_sepeti_bos_oldugunu_kontrol_edilir() PASSED 
+2022-06-24 16:20:49,478 INFO  [Log] bilgisayar_arat() PASSED 
+2022-06-24 16:20:52,420 INFO  [Log] ikinci_sayfaya_git_kontrol_et() PASSED 
+2022-06-24 16:20:52,484 ERROR [Log] rastgele_urun_sec_sepete_ekle() FAILED with cause : Index 32 out of bounds for length 32 
+2022-06-24 16:21:07,570 ERROR [Log] secilen_urun_fiyat_ile_sepettekini_karsilastir() FAILED with cause : no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Sepete Git']"}
+  (Session info: chrome=102.0.5005.115)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.1.3', revision: '7b1ebf28ef'
+System info: host: 'LAPTOP-RTHRL78S', ip: '192.168.1.36', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [90e152279bd60c071706581949a03739, findElement {using=xpath, value=//a[normalize-space()='Sepete Git']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 102.0.5005.115, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\90535\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49915}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:49915/devtoo..., se:cdpVersion: 102.0.5005.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 90e152279bd60c071706581949a03739 
+2022-06-24 16:21:14,578 ERROR [Log] secilen_urun_miktar_arttir() FAILED with cause : Unable to find element with locator By.xpath: ((//select[@class='amount'])[1]//option)[2]
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.1.3', revision: '7b1ebf28ef'
+System info: host: 'LAPTOP-RTHRL78S', ip: '192.168.1.36', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: driver.version: RemoteWebDriver 
+2022-06-24 16:21:14,601 ERROR [Log] urun_sepetten_silinerek_sepeti_bos_oldugunu_kontrol_edilir() FAILED with cause : no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=102.0.5005.115)
+Build info: version: '4.1.3', revision: '7b1ebf28ef'
+System info: host: 'LAPTOP-RTHRL78S', ip: '192.168.1.36', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [90e152279bd60c071706581949a03739, findElement {using=xpath, value=//i[@class='gg-icon gg-icon-bin-medium']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 102.0.5005.115, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\90535\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49915}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:49915/devtoo..., se:cdpVersion: 102.0.5005.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 90e152279bd60c071706581949a03739 
+2022-06-24 16:21:51,338 INFO  [Log] bilgisayar_arat() PASSED 
+2022-06-24 16:21:54,835 INFO  [Log] ikinci_sayfaya_git_kontrol_et() PASSED 
+2022-06-24 16:21:54,955 INFO  [Log] Turbox Tx107 i5 4440 16GB Ram 256GB M.2 NVMe 4GB GTX750Ti 27'' Mon. Oyun Bilgisayarı
+9.937,90 TL
+Ücretsiz - Aynı Gün Kargo
+Başarılı Satıcı 
+2022-06-24 16:21:58,125 INFO  [Log] rastgele_urun_sec_sepete_ekle() PASSED 
+2022-06-24 16:22:01,737 INFO  [Log] secilen_urun_fiyat_ile_sepettekini_karsilastir() PASSED 
+2022-06-24 16:22:02,479 INFO  [Log] secilen_urun_miktar_arttir() PASSED 
+2022-06-24 16:22:03,619 INFO  [Log] urun_sepetten_silinerek_sepeti_bos_oldugunu_kontrol_edilir() PASSED 
+2022-06-24 17:58:46,613 INFO  [Log] bilgisayar_arat() PASSED 
+2022-06-24 17:58:50,974 INFO  [Log] ikinci_sayfaya_git_kontrol_et() PASSED 
+2022-06-24 17:58:51,134 INFO  [Log] Ramtech OX93 Intel i5 2500 8GB Ram 128GB SSD 320GB HDD Freedos Masaüstü Bilgisayar
+Siparişiniz saat 16:00'a kadar kargoda! Faturalı Ürün
+2.455,74 TL
+Sepete Ekle 
+2022-06-24 17:59:00,143 INFO  [Log] rastgele_urun_sec_sepete_ekle() PASSED 
+2022-06-24 17:59:09,877 INFO  [Log] secilen_urun_fiyat_ile_sepettekini_karsilastir() PASSED 
+2022-06-24 17:59:10,725 INFO  [Log] secilen_urun_miktar_arttir() PASSED 
+2022-06-24 17:59:11,896 INFO  [Log] urun_sepetten_silinerek_sepeti_bos_oldugunu_kontrol_edilir() PASSED 
